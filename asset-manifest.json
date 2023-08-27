@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/time-tracking-dashboard/static/css/main.f3a25b7f.css",
-    "main.js": "/time-tracking-dashboard/static/js/main.3d71bf06.js",
+    "main.js": "/time-tracking-dashboard/static/js/main.8c54dd7d.js",
     "static/js/787.2bc8a76d.chunk.js": "/time-tracking-dashboard/static/js/787.2bc8a76d.chunk.js",
     "static/media/Rubik-Bold.ttf": "/time-tracking-dashboard/static/media/Rubik-Bold.c934eb22c2c69992b34c.ttf",
     "static/media/Rubik-Black.ttf": "/time-tracking-dashboard/static/media/Rubik-Black.a41b3ae4e67200950946.ttf",
@@ -15,11 +15,11 @@
     "static/media/icon-self-care.svg": "/time-tracking-dashboard/static/media/icon-self-care.a161aff589038fc7ce09296497d4cd62.svg",
     "static/media/icon-ellipsis.svg": "/time-tracking-dashboard/static/media/icon-ellipsis.a57a4ac863593bb69d31b4399823f745.svg",
     "main.f3a25b7f.css.map": "/time-tracking-dashboard/static/css/main.f3a25b7f.css.map",
-    "main.3d71bf06.js.map": "/time-tracking-dashboard/static/js/main.3d71bf06.js.map",
+    "main.8c54dd7d.js.map": "/time-tracking-dashboard/static/js/main.8c54dd7d.js.map",
     "787.2bc8a76d.chunk.js.map": "/time-tracking-dashboard/static/js/787.2bc8a76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3a25b7f.css",
-    "static/js/main.3d71bf06.js"
+    "static/js/main.8c54dd7d.js"
   ]
 }
