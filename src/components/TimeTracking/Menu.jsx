@@ -16,7 +16,7 @@ const Menu = (props) => {
       <div className={`${sectionBaseClass}__profile`}>
         <img
           className={`${sectionBaseClass}__profile--image`}
-          src="/time-tracker/images/image-jeremy.png"
+          src="time-tracker/images/image-jeremy.png"
           alt="profile-pic"
         />
 
