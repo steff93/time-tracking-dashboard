@@ -1,0 +1,16 @@
+$baseClass: ".time-tracking";
+
+#{$baseClass} {
+  &__cards {
+    display: grid;
+    gap: 25px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+
+  @media (max-width: 767px) {
+    &__cards {
+      grid-template-columns: 1fr;
+    }
+  }
+}
