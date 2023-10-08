@@ -83,7 +83,7 @@ $baseClass: ".time-tracking";
     }
   }
 
-  @media (max-width: 757px) {
+  @media (max-width: 767px) {
     &--info {
       display: grid;
       grid-template-columns: 1fr 1fr;
