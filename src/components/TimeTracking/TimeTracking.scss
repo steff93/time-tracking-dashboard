@@ -12,6 +12,7 @@ $baseClass: ".time-tracking";
     grid-template-rows: 1fr;
 
     gap: 25px;
+    max-width: 95%;
   }
 
   @media (max-width: 767px) {
